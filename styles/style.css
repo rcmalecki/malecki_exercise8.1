@@ -1,0 +1,25 @@
+* {
+	font-family: Arial, sans-serif;
+	margin: 0 auto 20px auto;
+	
+}
+			
+header {
+	font-size:2em;
+	text-align:center;
+}
+	
+h2 {
+	color:red;
+	text-align:center;
+}
+			
+.flashcard {
+	border: 5px solid #000;
+	padding:20px;
+	width: 200px;
+}
+			
+#div1, #div2, #div3, #div4, #div5, #div6 {
+	visibility: hidden;
+}
